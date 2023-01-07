@@ -13,7 +13,7 @@ pip install pygame --pre
 ````
 in case the former doesn't work
 
-Exeute beziermain.py to run. 
+Execute beziermain.py to run. 
 
 ## Usage
 Configure the shape of the curve by dragging the white handles.
